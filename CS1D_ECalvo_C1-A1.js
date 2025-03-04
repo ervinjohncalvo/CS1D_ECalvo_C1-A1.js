@@ -37,7 +37,7 @@ function printStudentInfo(student) {
     );
 }
 
-// Printing details for each persona
+// Printing details for each person
 printStudentInfo(student1);
 printStudentInfo(student2);
 printStudentInfo(student3);
