@@ -38,6 +38,6 @@ function printStudentInfo(student) {
 }
 
 // Printing details for each person
-printStudentInfo(student1);
-printStudentInfo(student2);
-printStudentInfo(student3);
+printStudentInfo(student1);// display student1 info
+printStudentInfo(student2);// display student2 info
+printStudentInfo(student3);// display student3 info
